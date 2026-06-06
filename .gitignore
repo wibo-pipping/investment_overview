@@ -1,3 +1,11 @@
+# Ignore the virtual environment
+.venv/
+venv/
+env/
+
+# Ignore your private financial data
+portfolio.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
